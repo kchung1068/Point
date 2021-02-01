@@ -5,7 +5,7 @@ public int y;
 
 public double getX() {
     return (double)(x);
-
+//
 }
 public double getY() {
     return (double)(y);
